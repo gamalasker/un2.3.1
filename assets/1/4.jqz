@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>DIGERATI</dc:creator>
+    <dc:title>Choisis la bonne r&amp;#x00E9;ponse :</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>7</version>
+
+<data>
+<title>Choisis la bonne r&amp;#x00E9;ponse :</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>Vous demandez &amp;#x00E0; un ami ce qu&amp;#x2019;il aime boire quand il a soif, il dit:</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Je bois du jus d&amp;#x2019;orange</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Je bois de la soupe</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Je bois de la sauce</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Je bois du miel</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Pour acheter des produits laitiers, vous dites au vendeur:</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Je voudrais des tomates</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>je voudrais du miel</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Je veux des c&amp;#x00E9;r&amp;#x00E9;ales</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Je voudrais du lait.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Vous parlez des produits sucr&amp;#x00E9;s que vous aimez vous dites </question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>j&amp;#x2019;adore les g&amp;#x00E2;teaux au chocolat</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>j&amp;#x2019;aime les saucissons et les frites</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>je pr&amp;#x00E9;f&amp;#x00E8;re les yaourts</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Je prends du fromage</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Vous parlez des aliments c&amp;#x00E9;r&amp;#x00E9;aliers que vous aimez-vous dites:</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>J&amp;#x2019;aime les saucissons</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>je pr&amp;#x00E9;f&amp;#x00E8;re la confiture de fraises</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>j&amp;#x2019;adore le riz et croissant</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>J&amp;#x2019;aime l&amp;#x2019;ananas</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Vos demandez &amp;#x00E0; votre ami dans quel groupe de la pyramide alimentaire est le chocolat, vous dites:</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>sucre et les produits sucr&amp;#x00E9;s</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>mati&amp;#x00E8;res grasses</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Viandes, poissons, &amp;#x0153;ufs</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Pains et produits c&amp;#x00E9;r&amp;#x00E9;aliers</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Votre ami vous demande votre boisson pr&amp;#x00E9;f&amp;#x00E9;r&amp;#x00E9;e, vous dites:</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Je bois de l&amp;#x2019;eau</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Je mange des lentilles</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Le jus des bananes est super</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>J&amp;#x2019;en bois 1 litre par jour</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question></question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle>Questionnaire &amp;#x00E0; choix multiples ou &amp;#x00E0; r&amp;#x00E9;ponses courtes.</exercise-subtitle>
+<instructions>Cliquez sur la bonne r&amp;#x00E9;ponse ou saisissez la bonne r&amp;#x00E9;ponse dans les zones pr&amp;#x00E9;vues &amp;#x00E0; cet effet.</instructions>
+<guess-correct>Correct!</guess-correct>
+<guess-incorrect>D&amp;#x00E9;sol&amp;#x00E9;! Essayez &amp;#x00E0; nouveau</guess-incorrect>
+<partly-incorrect>Votre r&amp;#x00E9;ponse est en partie fausse: </partly-incorrect>
+<enter-a-guess>Tapez votre r&amp;#x00E9;ponse.</enter-a-guess>
+<next-correct-letter>Lettre correcte suivante : </next-correct-letter>
+<correct-answers>R&amp;#x00E9;ponses correctes : </correct-answers>
+<show-answer-caption>Afficher la r&amp;#x00E9;ponse</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>naechste.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>0</show-correct-first-time>
+<shuffle-questions>0</shuffle-questions>
+<shuffle-answers>0</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>1</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Votre score est de:</your-score-is>
+<correct-indicator>:-)</correct-indicator>
+<incorrect-indicator>X</incorrect-indicator>
+<correct-first-time>R&amp;#x00E9;ponses exactes au premier essai: </correct-first-time>
+<completed-so-far>Questions compl&amp;#x00E9;t&amp;#x00E9;es en ce moment: </completed-so-far>
+<exercise-completed>Vous avez compl&amp;#x00E9;t&amp;#x00E9; l&apos;exercice.</exercise-completed>
+<keypad-characters>&amp;#x00E0; &amp;#x00E7; &amp;#x00E9; &amp;#x00EA; &amp;#x00E8; &amp;#x00EB; &amp;#x00F9; &amp;#x00F4; &amp;#x00C0; &amp;#x00C7; &amp;#x00C9; &amp;#x00CA;</keypad-characters>
+<times-up>Le temps imparti est &amp;#x00E9;coul&amp;#x00E9;!</times-up>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<contents-caption>Sommaire</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>0</include-contents>
+<include-back>0</include-back>
+<contents-url>index.htm</contents-url>
+<graphic-url>background.gif</graphic-url>
+<font-face>Geneva,Arial</font-face>
+<font-size>small</font-size>
+<page-bg-color>#FFFFFF</page-bg-color>
+<title-color>#000066</title-color>
+<ex-bg-color>#DDDDFF</ex-bg-color>
+<text-color>#000066</text-color>
+<link-color>#0000ff</link-color>
+<vlink-color>#0000cc</vlink-color>
+<nav-bar-color>#004080</nav-bar-color>
+<formmail-url>http://your.server.address/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourplace.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>um</user-string-1>
+<user-string-2>dois</user-string-2>
+<user-string-3>tr&amp;#x00EA;s</user-string-3>
+<header-code></header-code>
+<correct-first-time>R&amp;#x00E9;ponses exactes au premier essai: </correct-first-time>
+<check-caption>Correction</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>=&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;=</last-q-caption>
+<hint-caption>Aide</hint-caption>
+<show-all-questions-caption>Afficher toutes les questions</show-all-questions-caption>
+<show-one-by-one-caption>Afficher les questions une &amp;#x00E0; une</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="UTF-8">
+    <title>ggggg</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="css/AudioPlayer.css">
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+    #player{
+        position: relative;
+        max-width: 100%;
+        height: 98vh;
+    }
+
+    .title {
+      font-family: Montserrat;
+      font-size: 40px;
+      color: #fff;
+      text-align: center;
+    }
+
+    #ap {
+      border-bottom-right-radius: 10px;
+      border-bottom-left-radius: 10px;
+    }
+
+    #pl {
+      border-top-right-radius: 10px;
+      border-top-left-radius: 10px;
+      background: #2d323c;
+    }
+
+    li {
+      display: block;
+    }
+
+    .pl-title {
+      color: #fff;
+    }
+
+    .eq-bar {
+      background: #fff;
+    }
+
+
+    body {
+      background: #141414;
+    }
+    </style>
+  </head>
+
+  <body>
+      <!-- Audio player container-->
+      <p class='title'>كلمات مقدمة الوحدة الثانيه والحوار</p>
+     <div id='player'></div>
+
+    <!-- Audio player js begin-->
+    <script src="js/AudioPlayer.js"></script>
+
+    <script>
+        // test image for web notifications
+        var iconImage = null;
+
+        AP.init({
+            container:'#player',//a string containing one CSS selector
+            volume   : 0.7,
+            autoPlay : false,
+            notification: false,
+            playList: [
+                {'icon': iconImage, 'title': "Un sac de courses	حقيبة المشتريات", 'file': 'mp3/1.mp3'},
+                {'icon': iconImage, 'title': "Un parfum	رائحه طعم", 'file': 'mp3/2.mp3'},
+                {'icon': iconImage, 'title': "L'ananas 	أناناس", 'file': 'mp3/3.mp3'},
+                {'icon': iconImage, 'title': "Le chocolat 	شوكولاته", 'file': 'mp3/4.mp3'},
+                {'icon': iconImage, 'title': "Le prix	سعر", 'file': 'mp3/5.mp3'},
+                {'icon': iconImage, 'title': "Une rue	شارع", 'file': 'mp3/6.mp3'},
+                {'icon': iconImage, 'title': "Une pâtisserie 	حلوانى", 'file': 'mp3/7.mp3'},
+                {'icon': iconImage, 'title': "Une fraise 	فراوله", 'file': 'mp3/8.mp3'},
+                {'icon': iconImage, 'title': "la glace	جلاس", 'file': 'mp3/9.mp3'},
+                {'icon': iconImage, 'title': "la vanille	فانيليا", 'file': 'mp3/10.mp3'},
+                {'icon': iconImage, 'title': "des pépites 	رقائق", 'file': 'mp3/11.mp3'},
+                {'icon': iconImage, 'title': "une chantilly 	قشده مخفوقه", 'file': 'mp3/12.mp3'},
+                {'icon': iconImage, 'title': "une vendeuse	بائعه", 'file': 'mp3/13.mp3'},
+                {'icon': iconImage, 'title': "une salade	سلاطه", 'file': 'mp3/14.mp3'},
+                {'icon': iconImage, 'title': "une faim	جوع", 'file': 'mp3/15.mp3'},
+                {'icon': iconImage, 'title': "acheter	يشترى", 'file': 'mp3/16.mp3'},
+                {'icon': iconImage, 'title': "goûter 	يتذوق", 'file': 'mp3/17.mp3'},
+                {'icon': iconImage, 'title': "entrer	يدخل", 'file': 'mp3/18.mp3'},
+                {'icon': iconImage, 'title': "inviter	يدعو", 'file': 'mp3/19.mp3'},
+                {'icon': iconImage, 'title': "déjeuner 	يتغذى", 'file': 'mp3/20.mp3'},
+                {'icon': iconImage, 'title': "proposer	يقترح", 'file': 'mp3/21.mp3'},
+                {'icon': iconImage, 'title': "manger	يأكل", 'file': 'mp3/22.mp3'},
+                {'icon': iconImage, 'title': "faire des courses	يتسوق", 'file': 'mp3/23.mp3'},
+                {'icon': iconImage, 'title': "vendre	يبيع", 'file': 'mp3/24.mp3'},
+                {'icon': iconImage, 'title': "apporter	يحضر", 'file': 'mp3/25.mp3'},
+                {'icon': iconImage, 'title': "hésiter	يتردد", 'file': 'mp3/26.mp3'},
+                {'icon': iconImage, 'title': "avoir faim 	جوعان", 'file': 'mp3/27.mp3'},
+                {'icon': iconImage, 'title': "avoir  soif	عطشان", 'file': 'mp3/28.mp3'},
+                {'icon': iconImage, 'title': "libre	فاضى حر", 'file': 'mp3/29.mp3'},
+                {'icon': iconImage, 'title': "artisanal	يدوى", 'file': 'mp3/30.mp3'},
+                {'icon': iconImage, 'title': "désolé 	آسف", 'file': 'mp3/31.mp3'},
+                {'icon': iconImage, 'title': "d'accord	موافق", 'file': 'mp3/32.mp3'},
+                {'icon': iconImage, 'title': " je voudrais	انا اريد ( للاحترام ) ", 'file': 'mp3/33.mp3'},
+                {'icon': iconImage, 'title': "énorme	ضخم", 'file': 'mp3/34.mp3'},
+                {'icon': iconImage, 'title': "à midi	في الظهر", 'file': 'mp3/35.mp3'},
+                {'icon': iconImage, 'title': "ça fait combien	بكم", 'file': 'mp3/36.mp3'},
+                {'icon': iconImage, 'title': "ça te dit ?	يناسبك؟ ", 'file': 'mp3/37.mp3'},
+                {'icon': iconImage, 'title': "ça vous  dit ?	يناسبك؟ ", 'file': 'mp3/38.mp3'},
+                {'icon': iconImage, 'title': "voilà 	هاهو", 'file': 'mp3/39.mp3'},
+               {'icon': null, 'title': "انتهت الكلمات", 'file': ''},
+                         ]
+        });
+    </script>
+    <!-- Audio player js end-->
+
+  </body>
+</html>
